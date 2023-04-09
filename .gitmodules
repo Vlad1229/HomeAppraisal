@@ -1,0 +1,3 @@
+[submodule "HomeAppraisalClient"]
+	path = HomeAppraisalClient
+	url = https://github.com/Vlad1229/HomeAppraisalClient.git
